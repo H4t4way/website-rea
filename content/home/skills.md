@@ -20,8 +20,7 @@ feature:
     icon_pack: fas
     name: Photography
 ---
-widget: featurette
-headless: true  # This file represents a page section.
+
 
 # ... Put Your Section Options Here (title etc.) ...
 
