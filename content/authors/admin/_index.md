@@ -1,6 +1,7 @@
 ---
 title: Reando Veshi
 role: Professor of Artificial Intelligence
+avatar_filename: reapic.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
