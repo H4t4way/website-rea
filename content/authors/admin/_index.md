@@ -1,7 +1,7 @@
 ---
 title: Reando Veshi
 role: "Security Researcher // Pentester // Occasionally  Bug Hunter "
-avatar_filename: reapic.jpeg
+avatar_filename: http://h4t4way.root.sx/rea.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
