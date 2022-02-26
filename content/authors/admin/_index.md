@@ -42,7 +42,9 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Reando veshi is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Reando, but you can call me h4t4way. **I am a penetration tester and occasional bug hunter**. As a lover of WebSec, I always like to find something wrong and fix it !!!! :) I have been passionate about computer science since childhood and have been in the world of security for five and a half years. 
+
+My research interests include distributed robotics, mobile computing, and programmable matter. He leads the Robotic Neurobiology group that develops self-configuring robots, self-organising robotic systems, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
