@@ -2,12 +2,12 @@
 title: Reando Veshi
 role: "Security Researcher // Pentester // Occasionally  Bug Hunter "
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Web Security
+  - AppSec
+  - Rubik cube
+  - Cars
 social:
   - icon: envelope
     icon_pack: fas
