@@ -1,6 +1,6 @@
 ---
 title: Reando Veshi
-role: Professor of Artificial Intelligence
+role: "Security Researcher // Pentester // Occasionally  Bug Hunter "
 avatar_filename: reapic.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
