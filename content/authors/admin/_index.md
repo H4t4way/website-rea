@@ -21,20 +21,15 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/reajpr
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Computer Engineering
+      institution: Università degli Studi di Padova
+      year: ""
+    - course: "Electronic engineer and Telecommunications "
+      institution: I.T.I.S Francesco severi padova
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
@@ -42,7 +37,5 @@ highlight_name: true
 I am Reando, but you can call me h4t4way. **I am a penetration tester and occasional bug hunter**. As a lover of WebSec, I always like to find something wrong and fix it !!!! :) I have been passionate about computer science since childhood and have been in the world of security for five and a half years. 
 
 My research interests include distributed robotics, mobile computing, and programmable matter. He leads the Robotic Neurobiology group that develops self-configuring robots, self-organising robotic systems, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
